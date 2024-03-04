@@ -1,0 +1,27 @@
+# C/C++ build outputs
+.build/
+build/
+bins
+gens
+libs
+objs
+
+# Python items
+.coverage*
+.eggs
+.pytype
+*.egg
+*.egg-info
+a.out
+cython_debug/
+dist/
+htmlcov/
+py3*/
+pyb/
+python_pylint_venv/
+src/python/grpcio_*/=*
+src/python/grpcio_*/build/
+src/python/grpcio_*/LICENSE
+src/python/grpcio_status/grpc_status/google/rpc/status.proto
+black_virtual_environment/
+isort_virtual_environment/
