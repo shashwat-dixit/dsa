@@ -25,3 +25,5 @@ src/python/grpcio_*/LICENSE
 src/python/grpcio_status/grpc_status/google/rpc/status.proto
 black_virtual_environment/
 isort_virtual_environment/
+
+.vscode/
